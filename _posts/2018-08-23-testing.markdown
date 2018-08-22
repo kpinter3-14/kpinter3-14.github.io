@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Testing"
+date:   2018-08-23 01:03:22 +0200
+categories: testing
+---
+You know the drill
+
+{% highlight haskell %}
+f :: Int -> Int
+f x = x + 1
+{% endhighlight %}
+
